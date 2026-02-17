@@ -66,6 +66,20 @@ The dashboard provides executive-level KPIs, policy-type segmentation, claim sta
 
 ---
 
+## 📊 Dashboard Preview
+
+### Overview
+![Overview](screenshots/overview.png)
+
+###Settled Claimed Status Analysis
+![Top Bottom](screenshots/settled_claim_status.png)
+
+### Table Visuals
+![Table](screenshots/drilled_down-table-visuals.png)
+
+---
+
+
 ## 🛠 Tools & Techniques Used
 
 - Power BI
