@@ -71,7 +71,7 @@ The dashboard provides executive-level KPIs, policy-type segmentation, claim sta
 ### Overview
 ![Overview](screenshots/overview.png)
 
-###Settled Claimed Status Analysis
+### Settled Claimed Status Analysis
 ![Top Bottom](screenshots/settled_claim_status.png)
 
 ### Table Visuals
